@@ -29,7 +29,7 @@ if(isset($_SESSION["hoilogin"]))
 
     <img src="images/mul.jpg" alt="MU logo" style="width: 20%;height: 55%">
 <br>
-<p id="top" style="color: white;size: 100%">Welcome to the Manipal University Ph.D student feedback system.</p>
+<p id="top" style="color: white;size: 100%;align-self: center;"><br/><br/>Welcome to the <br/> Manipal Academy of Higher Education <br/> Ph.D student feedback system</p>
 </div>
 
 <div class="developed">

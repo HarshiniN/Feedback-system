@@ -53,7 +53,7 @@ and open the template in the editor.
     <div class="container">
         <div class="navbar-header">
             <ul style="list-style-type: none">
-            <li class="navbar-brand"><img src="images/Manipal.jpg" style="height: 38px;width: 250px; background-color: white; margin-left: -110px;margin-top: -10px;"></li>
+            <li class="navbar-brand"><img src="images/mahe.png" style="height: 43px;width: 250px; background-color: white; margin-left: -110px;margin-top: -10px;"></li>
             <li class="navbar-brand" style="padding-left: 320px"></li>
             </ul>
         </div>
@@ -74,7 +74,7 @@ and open the template in the editor.
         </div>
         <div class="scrollable des" style="margin-left: 25%; margin-top: 90px; ;  height :480px;">
             <div style="margin-top: 25px;">
-                <marquee style="color:#111111; font-family: Soho Gothic Pro;background:#FF8A65; margin-left: 1px"><strong>Welcome to Manipal University Feedback system portal!</strong></marquee><br><br>
+                <marquee style="color:#111111; font-family: Soho Gothic Pro;background:#FF8A65; margin-left: 1px"><strong>Welcome to Manipal Academy of Higher Education Feedback system portal!</strong></marquee><br><br>
                 <?php
                 $var1=1;
                 if (isset($_SESSION['varname4']))

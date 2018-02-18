@@ -36,7 +36,7 @@ if(!isset($_SESSION["drlogin"]))
     <div class="container">
         <div class="navbar-header">
             <ul style="list-style-type: none">
-            <li class="navbar-brand"><img src="images/Manipal.jpg" style="height: 38px;width: 250px; background-color: white; margin-left: -110px;margin-top: -10px;"></li>
+            <li class="navbar-brand"><img src="images/mahe.png" style="height: 43px;width: 250px; background-color: white; margin-left: -110px;margin-top: -10px;"></li>
             <li class="navbar-brand" style="padding-left: 320px"></li>
             </ul>
         </div>
